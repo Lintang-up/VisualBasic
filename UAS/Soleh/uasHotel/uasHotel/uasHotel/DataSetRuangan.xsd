@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetRuangan" targetNamespace="http://tempuri.org/DataSetRuangan.xsd" xmlns:mstns="http://tempuri.org/DataSetRuangan.xsd" xmlns="http://tempuri.org/DataSetRuangan.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetRuangan" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetRuangan" msprop:Generator_UserDSName="DataSetRuangan">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ruangan" msprop:Generator_TableClassName="ruanganDataTable" msprop:Generator_TableVarName="tableruangan" msprop:Generator_TablePropName="ruangan" msprop:Generator_RowDeletingName="ruanganRowDeleting" msprop:Generator_RowChangingName="ruanganRowChanging" msprop:Generator_RowEvHandlerName="ruanganRowChangeEventHandler" msprop:Generator_RowDeletedName="ruanganRowDeleted" msprop:Generator_UserTableName="ruangan" msprop:Generator_RowChangedName="ruanganRowChanged" msprop:Generator_RowEvArgName="ruanganRowChangeEvent" msprop:Generator_RowClassName="ruanganRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idRuangan" msprop:Generator_ColumnVarNameInTable="columnidRuangan" msprop:Generator_ColumnPropNameInRow="idRuangan" msprop:Generator_ColumnPropNameInTable="idRuanganColumn" msprop:Generator_UserColumnName="idRuangan" type="xs:string" minOccurs="0" />
+              <xs:element name="nomorRuangan" msprop:Generator_ColumnVarNameInTable="columnnomorRuangan" msprop:Generator_ColumnPropNameInRow="nomorRuangan" msprop:Generator_ColumnPropNameInTable="nomorRuanganColumn" msprop:Generator_UserColumnName="nomorRuangan" type="xs:string" minOccurs="0" />
+              <xs:element name="tipeRuangan" msprop:Generator_ColumnVarNameInTable="columntipeRuangan" msprop:Generator_ColumnPropNameInRow="tipeRuangan" msprop:Generator_ColumnPropNameInTable="tipeRuanganColumn" msprop:Generator_UserColumnName="tipeRuangan" type="xs:string" minOccurs="0" />
+              <xs:element name="jumlahHunian" msprop:Generator_ColumnVarNameInTable="columnjumlahHunian" msprop:Generator_ColumnPropNameInRow="jumlahHunian" msprop:Generator_ColumnPropNameInTable="jumlahHunianColumn" msprop:Generator_UserColumnName="jumlahHunian" type="xs:string" minOccurs="0" />
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

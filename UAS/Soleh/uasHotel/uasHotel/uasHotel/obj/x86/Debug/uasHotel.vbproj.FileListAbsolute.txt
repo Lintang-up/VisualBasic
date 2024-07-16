@@ -1,0 +1,57 @@
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\bin\Debug\uasHotel.exe
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\bin\Debug\uasHotel.pdb
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\bin\Debug\uasHotel.xml
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.Resources.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.vbproj.GenerateResource.Cache
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.exe
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.xml
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.pdb
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.login.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.dashboard.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.addGuest.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkIn.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkOut.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.GuestListInTheCheckIn.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.roomList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.RoomListInTheCheckIn.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.transactionInTheCheckOut.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.guestList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkInList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkOutList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.addRoom.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.vbprojResolveAssemblyReference.cache
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakGuestList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\RdlCompile.cache
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\RdlCompile.compiled
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckInList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckOutList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakRoomList.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckIn.resources
+D:\tugas kuliah\visual studio\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckOut.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.addGuest.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.addRoom.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkIn.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkInList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkOut.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.checkOutList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.dashboard.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckIn.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckInList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckOutList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakGuestList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakRoomList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.FCetakCheckOut.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.guestList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.GuestListInTheCheckIn.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.login.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.roomList.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.RoomListInTheCheckIn.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.transactionInTheCheckOut.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\uasHotel.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\RdlCompile.cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\Soleh\uasHotel\uasHotel\uasHotel\obj\x86\Debug\RdlCompile.compiled

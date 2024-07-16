@@ -1,0 +1,10 @@
+tutorial:
+1. nyalakan xampp
+2. masuk localhost/phpmyadmin
+3. buat database baru bernama "visual_hotel" (gambar 1)
+4. klik database "visual_hotel" yg telah dibuat (gambar 2)
+5. import .sql yg ada di folder uasHotel (gambar 3)
+6. buka odbc 
+7. klik "ADD" dan pilih "MySQL ODBC 3.51 Driver, klik finish (gambar 4)
+8. ketik sama seperti (gambar 5), lalu ok
+9. jalankan visual studionya

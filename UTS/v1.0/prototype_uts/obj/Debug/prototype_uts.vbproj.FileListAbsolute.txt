@@ -1,0 +1,18 @@
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\bin\Debug\prototype_uts.exe.config
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\bin\Debug\prototype_uts.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\bin\Debug\prototype_uts.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\bin\Debug\prototype_uts.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\obj\Debug\prototype_uts.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\obj\Debug\prototype_uts.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\obj\Debug\prototype_uts.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\obj\Debug\prototype_uts.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\obj\Debug\prototype_uts.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\prototype_uts\prototype_uts\obj\Debug\prototype_uts.Pemesanan.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\New folder\v1.0\prototype_uts\bin\Debug\prototype_uts.exe.config
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\New folder\v1.0\prototype_uts\obj\Debug\prototype_uts.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\New folder\v1.0\prototype_uts\obj\Debug\prototype_uts.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\New folder\v1.0\prototype_uts\obj\Debug\prototype_uts.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.0\prototype_uts\bin\Debug\prototype_uts.exe.config
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.0\prototype_uts\obj\Debug\prototype_uts.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.0\prototype_uts\obj\Debug\prototype_uts.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.0\prototype_uts\obj\Debug\prototype_uts.pdb

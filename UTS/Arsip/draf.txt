@@ -1,0 +1,40 @@
+Jerapah Makan Sayur
+Spiderman EndGame
+Puss In The Boot The Last Live
+Kungfu Panda 6
+Cars 4
+Mummies
+Ant Man
+
+12.00
+14.20
+16.30
+19.00
+22.00
+
+        D_JudulFilm.Text = Judul_Film.Text
+        D_Studio.Text = Studio.Text
+        D_hari.Text = Hari.Text
+        D_JumlahTiket.Text = Jumlah_Tiket.Text
+        D_JamTayang.Text = Jam_Tayang.Text + " WIB"
+        D_NoKursi.Text = NO_Kursi_1.Text + No_Kursi_2.Text
+
+        Dim HR As Integer
+        Dim JB As Integer
+        Dim TH As Integer
+        HR = CInt(Harga.Text)
+        JB = CInt(Jumlah_Tiket.Text)
+        TH = (HR * JB)
+
+        Dim DISC As Integer
+        Dim POT As Integer
+        If CInt(JB) >= 5 Then
+            DISC = TH * 0.1
+            POT = (TH - DISC)
+        Else
+            POT = TH
+        End If
+
+        D_TotalPesan.Text = "RP " & TH
+        D_Discount.Text = "RP " & DISC
+        D_TotalBayar.Text = "RP " & POT

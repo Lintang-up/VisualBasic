@@ -1,0 +1,18 @@
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\bin\Debug\utsHotel.exe
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\bin\Debug\utsHotel.pdb
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\bin\Debug\utsHotel.xml
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\obj\x86\Debug\utsHotel.Form1.resources
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\obj\x86\Debug\utsHotel.Resources.resources
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\obj\x86\Debug\utsHotel.vbproj.GenerateResource.Cache
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\obj\x86\Debug\utsHotel.exe
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\obj\x86\Debug\utsHotel.xml
+D:\tugas kuliah\visual studio\utsHotel\utsHotel\obj\x86\Debug\utsHotel.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\obj\x86\Debug\utsHotel.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\obj\x86\Debug\utsHotel.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\obj\x86\Debug\utsHotel.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\bin\Debug\utsHotel.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\bin\Debug\utsHotel.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\bin\Debug\utsHotel.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\obj\x86\Debug\utsHotel.Form1.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\obj\x86\Debug\utsHotel.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\utsHotel\utsHotel\obj\x86\Debug\utsHotel.vbproj.GenerateResource.Cache

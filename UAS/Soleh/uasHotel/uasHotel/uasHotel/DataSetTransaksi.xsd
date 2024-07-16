@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetTransaksi" targetNamespace="http://tempuri.org/DataSetTransaksi.xsd" xmlns:mstns="http://tempuri.org/DataSetTransaksi.xsd" xmlns="http://tempuri.org/DataSetTransaksi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetTransaksi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetTransaksi" msprop:Generator_UserDSName="DataSetTransaksi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="transaksi" msprop:Generator_TableClassName="transaksiDataTable" msprop:Generator_TableVarName="tabletransaksi" msprop:Generator_TablePropName="transaksi" msprop:Generator_RowDeletingName="transaksiRowDeleting" msprop:Generator_RowChangingName="transaksiRowChanging" msprop:Generator_RowEvHandlerName="transaksiRowChangeEventHandler" msprop:Generator_RowDeletedName="transaksiRowDeleted" msprop:Generator_UserTableName="transaksi" msprop:Generator_RowChangedName="transaksiRowChanged" msprop:Generator_RowEvArgName="transaksiRowChangeEvent" msprop:Generator_RowClassName="transaksiRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idTransaksi" msprop:Generator_ColumnVarNameInTable="columnidTransaksi" msprop:Generator_ColumnPropNameInRow="idTransaksi" msprop:Generator_ColumnPropNameInTable="idTransaksiColumn" msprop:Generator_UserColumnName="idTransaksi" type="xs:string" minOccurs="0" />
+              <xs:element name="namaTamu" msprop:Generator_ColumnVarNameInTable="columnnamaTamu" msprop:Generator_ColumnPropNameInRow="namaTamu" msprop:Generator_ColumnPropNameInTable="namaTamuColumn" msprop:Generator_UserColumnName="namaTamu" type="xs:string" minOccurs="0" />
+              <xs:element name="nomorRuangan" msprop:Generator_ColumnVarNameInTable="columnnomorRuangan" msprop:Generator_ColumnPropNameInRow="nomorRuangan" msprop:Generator_ColumnPropNameInTable="nomorRuanganColumn" msprop:Generator_UserColumnName="nomorRuangan" type="xs:string" minOccurs="0" />
+              <xs:element name="tipeRuangan" msprop:Generator_ColumnVarNameInTable="columntipeRuangan" msprop:Generator_ColumnPropNameInRow="tipeRuangan" msprop:Generator_ColumnPropNameInTable="tipeRuanganColumn" msprop:Generator_UserColumnName="tipeRuangan" type="xs:string" minOccurs="0" />
+              <xs:element name="tarifKamar" msprop:Generator_ColumnVarNameInTable="columntarifKamar" msprop:Generator_ColumnPropNameInRow="tarifKamar" msprop:Generator_ColumnPropNameInTable="tarifKamarColumn" msprop:Generator_UserColumnName="tarifKamar" type="xs:string" minOccurs="0" />
+              <xs:element name="tanggalCheckIn" msprop:Generator_ColumnVarNameInTable="columntanggalCheckIn" msprop:Generator_ColumnPropNameInRow="tanggalCheckIn" msprop:Generator_ColumnPropNameInTable="tanggalCheckInColumn" msprop:Generator_UserColumnName="tanggalCheckIn" type="xs:string" minOccurs="0" />
+              <xs:element name="tanggalCheckOut" msprop:Generator_ColumnVarNameInTable="columntanggalCheckOut" msprop:Generator_ColumnPropNameInRow="tanggalCheckOut" msprop:Generator_ColumnPropNameInTable="tanggalCheckOutColumn" msprop:Generator_UserColumnName="tanggalCheckOut" type="xs:string" minOccurs="0" />
+              <xs:element name="jumlahHari" msprop:Generator_ColumnVarNameInTable="columnjumlahHari" msprop:Generator_ColumnPropNameInRow="jumlahHari" msprop:Generator_ColumnPropNameInTable="jumlahHariColumn" msprop:Generator_UserColumnName="jumlahHari" type="xs:string" minOccurs="0" />
+              <xs:element name="jumlahDewasa" msprop:Generator_ColumnVarNameInTable="columnjumlahDewasa" msprop:Generator_ColumnPropNameInRow="jumlahDewasa" msprop:Generator_ColumnPropNameInTable="jumlahDewasaColumn" msprop:Generator_UserColumnName="jumlahDewasa" type="xs:string" minOccurs="0" />
+              <xs:element name="jumlahAnak" msprop:Generator_ColumnVarNameInTable="columnjumlahAnak" msprop:Generator_ColumnPropNameInRow="jumlahAnak" msprop:Generator_ColumnPropNameInTable="jumlahAnakColumn" msprop:Generator_UserColumnName="jumlahAnak" type="xs:string" minOccurs="0" />
+              <xs:element name="diskonInap" msprop:Generator_ColumnVarNameInTable="columndiskonInap" msprop:Generator_ColumnPropNameInRow="diskonInap" msprop:Generator_ColumnPropNameInTable="diskonInapColumn" msprop:Generator_UserColumnName="diskonInap" type="xs:string" minOccurs="0" />
+              <xs:element name="tipeMember" msprop:Generator_ColumnVarNameInTable="columntipeMember" msprop:Generator_ColumnPropNameInRow="tipeMember" msprop:Generator_ColumnPropNameInTable="tipeMemberColumn" msprop:Generator_UserColumnName="tipeMember" type="xs:string" minOccurs="0" />
+              <xs:element name="diskonMember" msprop:Generator_ColumnVarNameInTable="columndiskonMember" msprop:Generator_ColumnPropNameInRow="diskonMember" msprop:Generator_ColumnPropNameInTable="diskonMemberColumn" msprop:Generator_UserColumnName="diskonMember" type="xs:string" minOccurs="0" />
+              <xs:element name="subTotal" msprop:Generator_ColumnVarNameInTable="columnsubTotal" msprop:Generator_ColumnPropNameInRow="subTotal" msprop:Generator_ColumnPropNameInTable="subTotalColumn" msprop:Generator_UserColumnName="subTotal" type="xs:string" minOccurs="0" />
+              <xs:element name="uangMuka" msprop:Generator_ColumnVarNameInTable="columnuangMuka" msprop:Generator_ColumnPropNameInRow="uangMuka" msprop:Generator_ColumnPropNameInTable="uangMukaColumn" msprop:Generator_UserColumnName="uangMuka" type="xs:string" minOccurs="0" />
+              <xs:element name="totalKurang" msprop:Generator_ColumnVarNameInTable="columntotalKurang" msprop:Generator_ColumnPropNameInRow="totalKurang" msprop:Generator_ColumnPropNameInTable="totalKurangColumn" msprop:Generator_UserColumnName="totalKurang" type="xs:string" minOccurs="0" />
+              <xs:element name="bayar" msprop:Generator_ColumnVarNameInTable="columnbayar" msprop:Generator_ColumnPropNameInRow="bayar" msprop:Generator_ColumnPropNameInTable="bayarColumn" msprop:Generator_UserColumnName="bayar" type="xs:string" minOccurs="0" />
+              <xs:element name="kembalian" msprop:Generator_ColumnVarNameInTable="columnkembalian" msprop:Generator_ColumnPropNameInRow="kembalian" msprop:Generator_ColumnPropNameInTable="kembalianColumn" msprop:Generator_UserColumnName="kembalian" type="xs:string" minOccurs="0" />
+              <xs:element name="idTamu" msprop:Generator_ColumnVarNameInTable="columnidTamu" msprop:Generator_ColumnPropNameInRow="idTamu" msprop:Generator_ColumnPropNameInTable="idTamuColumn" msprop:Generator_UserColumnName="idTamu" type="xs:string" minOccurs="0" />
+              <xs:element name="idRuangan" msprop:Generator_ColumnVarNameInTable="columnidRuangan" msprop:Generator_ColumnPropNameInRow="idRuangan" msprop:Generator_ColumnPropNameInTable="idRuanganColumn" msprop:Generator_UserColumnName="idRuangan" type="xs:string" minOccurs="0" />
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

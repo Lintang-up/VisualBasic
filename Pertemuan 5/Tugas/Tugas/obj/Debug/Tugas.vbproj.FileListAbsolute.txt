@@ -1,0 +1,15 @@
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\bin\Debug\Tugas.exe.config
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\bin\Debug\Tugas.exe
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\bin\Debug\Tugas.pdb
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\bin\Debug\Tugas.xml
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.Resources.resources
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.Tugas_1.resources
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.exe
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.xml
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.pdb
+D:\Kuliah\Semester_4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.Tugas_2.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\bin\Debug\Tugas.exe.config
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\Pertemuan 5\Tugas\Tugas\obj\Debug\Tugas.pdb
